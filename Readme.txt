@@ -1,0 +1,1 @@
+This is a Python program that uses a brute-force search algorithm to solve a crossword puzzle.Here, the crossword puzzle is defined as a two-dimensional list of characters, with blank.
